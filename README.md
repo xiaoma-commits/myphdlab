@@ -12,3 +12,6 @@ If you only need the SCSR framework itself, please visit the **only-SCSR** repos
 
 ## SOGN
 A Novel Neural Network for Selective Regression Based on External Metrics Rather Than Internal Metrics
+
+## Energy Functional of QUBO
+A QUBO construction method based on energy functionals, which is applicable to quantum computing and enables higher precision on real quantum hardware.
